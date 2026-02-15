@@ -14,12 +14,12 @@ A desktop app that helps manage everything about a fishing port
 
 ## Authors
 
-Raslen Azaiez
-Hamza Saidane
-Rayen LETAIF
-Ibrahim Hamrouni
-Ayoub Salah
-Abedrahmen Laouini
+* Raslen Azaiez
+* Hamza Saidane
+* Rayen LETAIF
+* Ibrahim Hamrouni
+* Ayoub Salah
+* Abedrahmen Laouini
 
 ## License
 
