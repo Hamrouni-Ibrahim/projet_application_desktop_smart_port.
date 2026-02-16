@@ -23,4 +23,4 @@ A desktop app that helps manage everything about a fishing port
 
 ## License
 
-This project is licensed under the [Open Source] License
+This project is licensed under the Open Source License
